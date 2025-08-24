@@ -1,0 +1,24 @@
+{
+  "users": [],
+  "groups": [],
+  "antilink": {},
+  "antibadword": {},
+  "warnings": {},
+  "sudo": [],
+  "welcome": {
+    "120363419345326912@g.us": {
+      "enabled": true,
+      "message": "hi",
+      "channelId": "120363161513685998@newsletter"
+    }
+  },
+  "goodbye": {
+    "120363419345326912@g.us": {
+      "enabled": true,
+      "message": "set bye",
+      "channelId": "120363161513685998@newsletter"
+    }
+  },
+  "chatbot": {},
+  "autoReaction": false
+}
